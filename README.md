@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Robson Menezes
 
-<!--
-**RobsonMenezes/RobsonMenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de análise e desenvolvimento de sistems e entusiasta de **Cyber Security**, com foco em **Python** e **C**.  
+💼 Busco expandir minhas habilidades práticas e construir projetos relevantes na área de segurança da informação.
 
-Here are some ideas to get you started:
+## Sobre mim
+- Área de interesse: Cyber Security, Pentest, Programação segura  
+- Linguagens em foco: Python, C  
+- Objetivo: desenvolver projetos que fortaleçam meu portfólio e demonstrem minhas habilidades técnicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos e portfólio
+- Repositórios públicos no GitHub mostrando prática em scripts de automação, análise de vulnerabilidades e projetos de estudo em segurança.  
+
+## Contato
+- LinkedIn: [https://www.linkedin.com/in/robson-menezes-991989230/](https://www.linkedin.com/in/robson-menezes-991989230/)  
+- GitHub: [https://github.com/RobsonMenezes](https://github.com/RobsonMenezes)
+
+> Estou aberto a colaborações, aprendizado contínuo e troca de experiências na área de segurança cibernética. 🔐
