@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Robson Menezes
 
-🎓 Estudante de análise e desenvolvimento de sistems e entusiasta de **Cyber Security**, com foco em **Python** e **C**.  
+🎓 Estudante de análise e desenvolvimento de sistemas e entusiasta de **Cyber Security**, com foco em **Python** e **C**.  
 💼 Busco expandir minhas habilidades práticas e construir projetos relevantes na área de segurança da informação.
 
 ## Sobre mim
